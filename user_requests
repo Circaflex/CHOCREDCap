@@ -1,0 +1,12 @@
+Principal Investigators and designated members of their study team are automatically given access to their project's User Rights module. This enables the study team to manage who can do what in their projects. However, before a user can be added to a project they must have a user profile created for them by a system administrator. For this reason the process for adding a new user is as follows: 
+
+Adding a REDCap User
+
+1. An authorized member of the project team requests the new user is added to REDCap.  
+◦ This request should be by email to redcap@ualberta.ca and should specify the name and email address of each new user 
+◦ An "authorized" member of the project team is anyone who has access to the User Rights section of the specified project. 
+◦ System administrators will confirm that the user is authorized by checking their name and email address against the user rights for the specified project. 
+
+3. System administrators will configure the new user profile in REDCap, which will result in a user name and temporary password being emailed to the users. 
+4. System administrators will inform the Principal Investigator or the requesting user of the user name for each new user. 
+5. An authorized member of the project team must then add the new user to the project and specify appropriate user rights. 
